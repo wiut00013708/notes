@@ -28,4 +28,4 @@ node app
 
 ### Web application repository on github
 
-[link to github repo]
+[link to github repo](https://github.com/wiut00013708/notes.git)
